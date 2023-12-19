@@ -2,7 +2,7 @@
 package jykh;
 import java.util.Stack;
 import java.util.Scanner;
-
+ 
 public class jykh {
     public static boolean areBracketsBalanced(String expr) {
         Stack<Character> stack = new Stack<>();
